@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from './Components/Navbar';
 import ProductCard from './Components/ProductCard';
-import CartModal from './components/CartModal';
+import CartModal from './Components/CartModal';
 
 const App = () => {
   const [products, setProducts] = useState([]);
