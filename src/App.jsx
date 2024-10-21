@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Navbar from './Components/Navbar';
-import ProductCard from './components/ProductCard';
+import ProductCard from './Components/ProductCard';
 import CartModal from './components/CartModal';
 
 const App = () => {
